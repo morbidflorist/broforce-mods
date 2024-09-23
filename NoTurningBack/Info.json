@@ -1,0 +1,9 @@
+{
+	"Id": "NoTurningBack",
+	"DisplayName": "No Turning Back",
+	"Author": "MorbidFlorist21",
+	"Version": "1.0.0",
+	"AssemblyName": "NoTurningBack.dll",
+	"EntryMethod": "NoTurningBack.Mod.Load",
+	"Repository": "https://raw.githubusercontent.com/morbidflorist/broforce-mods/main/Repository.json"
+}
